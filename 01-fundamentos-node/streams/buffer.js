@@ -1,0 +1,1 @@
+//representa um espaço na memo do pc de forma binária
